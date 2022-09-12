@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-        <section class="templatemo-top-section">
+        <!--<section class="templatemo-top-section">
           <div class="templatemo-header">
             <img class="templatemo-header-img" src="img/header.png" alt="Header">
             <h1 class="templatemo-site-name">Motor</h1>
@@ -39,7 +39,7 @@
             </div>    
           </div>
         </div>
-      </section>
+      </section>-->
       <section class="container margin-bottom-50">
        <div class="row">
         <h2 class="col-lg-12 text-center text-uppercase margin-bottom-30">Donec pede justo fringilla ulputate eget</h2>
