@@ -5,11 +5,11 @@
           <nav class="col-lg-3 col-md-3 tm-footer-nav tm-footer-div">
             <h3 class="tm-footer-div-title">Main Menu</h3>
             <ul>
-              <li><a href="index.html">Home</a></li>
-              <li><a href="about.html">About Us</a></li>
-              <li><a href="gallery.html">Directory</a></li>
+              <li><a href="/">Home</a></li>
+              <li><a href="about">About Us</a></li>
+              <li><a href="/">Directory</a></li>
               <li><a href="#">Blog</a></li>
-              <li><a href="services.html">Our Services</a></li>
+              <li><a href="services">Our Services</a></li>
             </ul>
           </nav>
           <div class="col-lg-5 col-md-5 tm-footer-div">
@@ -30,7 +30,7 @@
           </div>
         </div>
         <div class="row tm-copyright">
-          <p class="col-lg-12 small copyright-text text-center">Copyright &copy; 2021 Pemrograman Web Lanjut</p>
+          <p class="col-lg-12 small copyright-text text-center">Copyright &copy; 2022 Project TSA </p>
         </div>
       </div>
     </footer> <!-- Footer content-->

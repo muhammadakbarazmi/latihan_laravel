@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Motor Contact</title>
+  <title>Mobil</title>
   <meta name="description" content="">
 <!-- 
 Motor Template
@@ -43,11 +43,11 @@ http://www.templatemo.com/tm-463-motor
         <div class="templatemo-nav-container">
           <nav class="templatemo-nav">
             <ul>
-             <li><a href="index.html">Home</a></li>
-             <li><a href="products.html">Products</a></li>
-             <li><a href="services.html">Services</a></li>
-             <li><a href="gallery.html">Gallery</a></li>
-             <li><a href="contact.html" class="active">Contact</a></li>
+             <li><a href="/">Home</a></li>
+             <li><a href="products">Products</a></li>
+             <li><a href="services">Services</a></li>
+             <li><a href="gallery">Gallery</a></li>
+             <li><a href="contact" class="active">Contact</a></li>
            </ul>
          </nav> 
        </div>
