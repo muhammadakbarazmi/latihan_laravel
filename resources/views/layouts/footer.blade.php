@@ -10,6 +10,8 @@
               <li><a href="/">Directory</a></li>
               <li><a href="#">Blog</a></li>
               <li><a href="services">Our Services</a></li>
+              <li><a href="{{ url('/logout') }}">logout</a></li>
+              
             </ul>
           </nav>
           <div class="col-lg-5 col-md-5 tm-footer-div">

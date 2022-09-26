@@ -50,7 +50,7 @@ http://www.templatemo.com/tm-463-motor
 
         @include('layouts.slider')
       </section>
-
+      
     <!--Main content-->
 
     @yield('content')
