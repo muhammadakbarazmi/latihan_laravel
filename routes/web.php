@@ -13,9 +13,11 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', [App\Http\Controllers\HomeController::class, 'index']);
+Route::get('/index', [App\Http\Controllers\HomeController::class, 'index']);
 Route::get('/about', [App\Http\Controllers\HomeController::class, 'about']);
 Route::get('/products', [App\Http\Controllers\HomeController::class, 'products']);
 Route::get('/services', [App\Http\Controllers\HomeController::class, 'services']);
 Route::get('/galery', [App\Http\Controllers\HomeController::class, 'galery']);
 Route::get('/contact', [App\Http\Controllers\HomeController::class, 'contact']);
+Route::post('/register', [AuthController::class, 'register']);
+Route::post('/login', [AuthController::class, 'login']);
