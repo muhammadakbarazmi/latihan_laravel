@@ -13,7 +13,7 @@
                           	<span class="welcome-title-1">Performance</span>
                       		<span class="welcome-title-2">Sport Car</span>
                         </h2>
-                        <p class="welcome-message">Motor is free Bootstrap v3.3.4 responsive web template provided 
+                        <p class="welcome-message">Mobil is free Bootstrap v3.3.4 responsive web template provided 
                 by <span class="blue">template</span><span class="green">mo</span>.com website. You can download, 
                 modify and use this for your website projects. Please tell your friends about our templates. 
                 Thank you for visiting. Have fun!</p>

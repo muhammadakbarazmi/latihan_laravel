@@ -43,10 +43,10 @@ http://www.templatemo.com/tm-463-motor
         <div class="templatemo-nav-container">
           <nav class="templatemo-nav">
             <ul>
-             <li><a href="/">Home</a></li>
-             <li><a href="products">Products</a></li>
-             <li><a href="services">Services</a></li>
-             <li><a href="gallery">Gallery</a></li>
+             <li><a href="/index">Home</a></li>
+             <li><a href="/products">Products</a></li>
+             <li><a href="/services">Services</a></li>
+             <li><a href="/galery">Gallery</a></li>
              <li><a href="contact" class="active">Contact</a></li>
            </ul>
          </nav> 
