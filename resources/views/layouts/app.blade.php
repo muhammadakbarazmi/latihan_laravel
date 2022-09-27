@@ -44,10 +44,12 @@ http://www.templatemo.com/tm-463-motor
                 
               
               @include('layouts.menu')
+            
 
            </div>
          </div>
 
+        @include('layouts.login')
         @include('layouts.slider')
       </section>
       
